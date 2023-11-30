@@ -4,7 +4,7 @@
 int main(int argc, char** argv) {
 
     if (argc != 3) {
-        printf("usage: ./Copier src_path dst_path\n");
+        printf("usage: copier src_path dst_path\n");
         exit(-1);
     }
 
