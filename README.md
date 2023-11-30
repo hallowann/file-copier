@@ -1,3 +1,3 @@
 # file-copier
-Cute little project to toy with file I/O in C.
+Cute little project to toy with file I/O in C.\n
 To be compiled in a Unix shell with the following command: $gcc copier.c -o copier
